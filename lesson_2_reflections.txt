@@ -2,3 +2,9 @@ What happens when you initialize a repository?
 Why do you need to do it?
 When we initialize a repository we creat a .git file and 
 you need it to start the versino control of this project
+
+How is the staging area different from 
+the working directory and the repository? 
+What value do you think it offers?
+is the place where to creat commits but where you can't change files
+It offers the value of deciding to create or not a commit
