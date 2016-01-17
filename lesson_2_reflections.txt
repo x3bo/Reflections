@@ -8,3 +8,8 @@ the working directory and the repository?
 What value do you think it offers?
 is the place where to creat commits but where you can't change files
 It offers the value of deciding to create or not a commit
+
+How can you use the staging area to make sure 
+you have one commit per logical change?
+You should use the staging area everytime 
+you have a logical change in the working area
