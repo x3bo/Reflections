@@ -13,3 +13,12 @@ How can you use the staging area to make sure
 you have one commit per logical change?
 You should use the staging area everytime 
 you have a logical change in the working area
+
+What are some situations when branches would be helpful 
+in keeping your history organized? 
+How would branches help?
+It is useful when you want to try some changes 
+but you're not sure those changes going to work 
+or have a different version of the original.
+In both case you do not change the master branch,
+so if you are wrong you can restart.
