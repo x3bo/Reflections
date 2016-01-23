@@ -26,3 +26,8 @@ so if you are wrong you can restart.
 How do the diagrams help you visualize the branch structure?
 The diagram helps in ordre to understand the structure and 
 the way it fows.
+
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+The result is one branch with the different commits. 
+We represented like this to visualize the flow.
