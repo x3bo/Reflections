@@ -22,3 +22,7 @@ but you're not sure those changes going to work
 or have a different version of the original.
 In both case you do not change the master branch,
 so if you are wrong you can restart.
+
+How do the diagrams help you visualize the branch structure?
+The diagram helps in ordre to understand the structure and 
+the way it fows.
