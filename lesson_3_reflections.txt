@@ -7,3 +7,12 @@ rather than having Git automatically stay up-to-date with your remote repository
 Beacuse not always it is necessary to share all your commits. 
 Some times it is more interesting to share a group of commits 
 that helps others to have a whole idea of what you are working on.
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+On one hand, I'll use branches when I'd like to have experimental 
+changes or different versions of my master branch.
+On th other hand, I'll use clone, to clone the repository 
+to my local computer from either my local computer or the cloud (GitHUb)
+Finally, I'll use fork to clone a repository of a GitHub user 
+to my account onto GitHub (from cloud to cloud).
