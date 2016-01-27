@@ -16,3 +16,8 @@ On th other hand, I'll use clone, to clone the repository
 to my local computer from either my local computer or the cloud (GitHUb)
 Finally, I'll use fork to clone a repository of a GitHub user 
 to my account onto GitHub (from cloud to cloud).
+
+What is the benefit of having a copy of 
+the last known state of the remote stored locally?
+In my opinion, one benefit is to know the traceability,
+the commits show the different steps of your code.
