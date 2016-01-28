@@ -21,3 +21,11 @@ What is the benefit of having a copy of
 the last known state of the remote stored locally?
 In my opinion, one benefit is to know the traceability,
 the commits show the different steps of your code.
+
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+I would use email o something like this,
+but it's much better working with GitHub in orther to
+have better traceability of our work. On the other hand, 
+it could be easier if we could modify a commit 
+without creating a new one, for instance, to arrange a typo.
