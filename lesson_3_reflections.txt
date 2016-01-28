@@ -29,3 +29,12 @@ but it's much better working with GitHub in orther to
 have better traceability of our work. On the other hand, 
 it could be easier if we could modify a commit 
 without creating a new one, for instance, to arrange a typo.
+
+When would you want to make changes in a separate branch 
+rather than directly in master? What benefits does each approach have?
+Once again, changes in separate branches would have 2 goals:
+first, sharing your code with collaborators before 
+you'd introduce those changes. 
+And second, to have a different version of the master code.
+The basic benefit is to maintain the mster branch as consolidate 
+as possible.
